@@ -5,6 +5,10 @@ Team Name and Members - Rock Lobsters
 - Will Jenkins
 - Brooks Ruehle
 
+Data Model
+- ![image](https://github.com/user-attachments/assets/f0c97308-65ba-498d-9271-5048fece976d)
+
+
 Scenario Description: 
 We created this data model to serve as a real estate customer relationship management system. It tracks all the interactions that happens betweens customers, sales representatives, and properties. The database that we created helps to manage things such as a customer lead, the showings of properties, any offers, contracts, or payments, as well as commission. It is aimed at real estate agencies, which helps them to streamline sales with customers. 
 
