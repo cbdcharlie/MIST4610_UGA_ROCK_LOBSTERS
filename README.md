@@ -3,7 +3,7 @@
 Team Name and Members - Rock Lobsters
 - Charlie Davis
 - Will Jenkins @willjenkins-glitch
-- Brooks Ruehle @brooks-ruehle
+- Brooks Ruehle @Brooks-Ruehle
 
 Data Model
 - ![image](https://github.com/user-attachments/assets/f0c97308-65ba-498d-9271-5048fece976d)
