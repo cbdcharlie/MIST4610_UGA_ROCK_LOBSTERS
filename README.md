@@ -12,10 +12,8 @@ We created this data model to serve as a real estate customer relationship manag
 Data Dictionary:
 
 Payment
-- idPayment
-- date
-- amount
-- idCustomer
+<img width="727" alt="Screenshot 2024-10-01 at 12 15 13 AM" src="https://github.com/user-attachments/assets/4d2a1963-a963-4720-be6b-f6ec1095fe0a">
+
 
 Customer
 - idCustomer
