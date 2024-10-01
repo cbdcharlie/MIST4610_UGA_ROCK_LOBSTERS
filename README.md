@@ -6,7 +6,8 @@ Team Name and Members - Rock Lobsters
 - Brooks Ruehle @Brooks-Ruehle
 
 Data Model
-- ![image](https://github.com/user-attachments/assets/f0c97308-65ba-498d-9271-5048fece976d)
+
+ ![image](https://github.com/user-attachments/assets/f0c97308-65ba-498d-9271-5048fece976d)
 
 
 Scenario Description: 
