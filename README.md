@@ -22,38 +22,56 @@ Payment
 
 
 Customer
-- <img width="723" alt="Screenshot 2024-10-01 at 12 18 32 AM" src="https://github.com/user-attachments/assets/89ad18aa-3d40-4c3b-b891-04a421347baa">
+
+<img width="719" alt="Screenshot 2024-10-01 at 12 41 21 AM" src="https://github.com/user-attachments/assets/a3d79e0d-6f99-4e94-8d54-d181278a43f9">
+
 
 
 Offer
-- <img width="721" alt="Screenshot 2024-10-01 at 12 18 56 AM" src="https://github.com/user-attachments/assets/831ae78f-1369-4c8a-a09f-7de90ca1b1c8">
+
+<img width="720" alt="Screenshot 2024-10-01 at 12 41 40 AM" src="https://github.com/user-attachments/assets/a9e1411c-ff17-45ff-a248-ae75f1b63288">
+
 
 
 Contract
-- <img width="721" alt="Screenshot 2024-10-01 at 12 19 12 AM" src="https://github.com/user-attachments/assets/ca2a9888-845b-4386-8a1e-09b05cbd1177">
+
+<img width="720" alt="Screenshot 2024-10-01 at 12 41 58 AM" src="https://github.com/user-attachments/assets/11a311e1-67bc-4956-93fb-f94f16d9f35d">
+
 
 
 Lead
-- <img width="720" alt="Screenshot 2024-10-01 at 12 19 38 AM" src="https://github.com/user-attachments/assets/59ca0430-e967-418e-b260-804a56284b2d">
+
+<img width="718" alt="Screenshot 2024-10-01 at 12 42 24 AM" src="https://github.com/user-attachments/assets/f041707b-25aa-4e3a-b4c2-2c7fcc8c8e25">
+
 
 
 
 Property
-- <img width="722" alt="Screenshot 2024-10-01 at 12 20 04 AM" src="https://github.com/user-attachments/assets/8b3e1ceb-48c4-4fd0-998c-cd253b46a123">
+
+<img width="720" alt="Screenshot 2024-10-01 at 12 42 45 AM" src="https://github.com/user-attachments/assets/c82a385e-f216-4a12-87eb-a8e8edc5fe09">
+
 
 
 SalesRep_has_Property
-- <img width="719" alt="Screenshot 2024-10-01 at 12 20 33 AM" src="https://github.com/user-attachments/assets/63bc4c90-73bc-47f2-a380-28eaf57657ae">
+
+<img width="721" alt="Screenshot 2024-10-01 at 12 43 03 AM" src="https://github.com/user-attachments/assets/693ad444-12d3-4e47-9f0d-3dd97e62cd7e">
+
 
 
 Showing
-- <img width="719" alt="Screenshot 2024-10-01 at 12 20 54 AM" src="https://github.com/user-attachments/assets/ddac3d0e-dae4-4ade-be4b-f84f4b69a7ad">
+
+<img width="722" alt="Screenshot 2024-10-01 at 12 43 19 AM" src="https://github.com/user-attachments/assets/0151e3be-680d-43a8-a366-adeb9ac027a9">
+
 
 
 SalesRep
-- <img width="719" alt="Screenshot 2024-10-01 at 12 21 17 AM" src="https://github.com/user-attachments/assets/43baff64-e6dd-4472-a299-cffb25af21ef">
+
+<img width="721" alt="Screenshot 2024-10-01 at 12 43 38 AM" src="https://github.com/user-attachments/assets/f922f20d-57b5-43a0-8ee0-7aa0e6bbf25a">
+
 
 
 Feedback
-- <img width="719" alt="Screenshot 2024-10-01 at 12 21 42 AM" src="https://github.com/user-attachments/assets/8aeaff93-c900-4eff-881b-cfe687f567eb">
+
+<img width="719" alt="Screenshot 2024-10-01 at 12 43 55 AM" src="https://github.com/user-attachments/assets/d51749bc-2f47-4903-8fb1-c7caa8bffd69">
+
 
