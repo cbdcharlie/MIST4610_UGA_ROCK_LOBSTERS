@@ -12,4 +12,65 @@ We created this data model to serve as a real estate customer relationship manag
 Data Dictionary:
 
 Payment
-- 
+- idPayment
+- date
+- amount
+- idCustomer
+
+Customer
+- idCustomer
+- name
+- email
+- phone
+
+Offer
+- idOffer
+- date
+- amount
+- idCustomer
+
+Contract
+- idContract
+- start
+- end
+- totalPrice
+- idOffer
+
+Lead
+- idLead
+- interestLevel
+- idProperty
+- idCustomer
+
+Property
+- idProperty
+- address
+- city
+- state
+- price
+
+SalesRep_has_Property
+- idSalesRep
+- idProperty
+- status
+- commissionPercent
+
+Showing
+- idShowing
+- date
+- time
+- idSalesRep
+- idProperty
+
+SalesRep
+- idSalesRep
+- name
+- email
+- phone
+- officeLocation
+
+Feedback
+- idFeedback
+- comments
+- rating
+- idSalesRep
