@@ -1,6 +1,6 @@
 # MIST4610_UGA_ROCK_LOBSTERS
 
-Team Name and Members: - Rock Lobsters
+Team Name and Members - Rock Lobsters
 - Charlie Davis
 - Will Jenkins
 - Brooks Ruehle
