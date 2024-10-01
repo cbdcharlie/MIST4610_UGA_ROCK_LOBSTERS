@@ -30,6 +30,45 @@ Data Model
  The Showing entity keeps track of the date of the showing as well as the time. A sales representative can have many showings but a showing is only tied to one sales representative. A property can have many showings but a showing is only tied to one property.
 
 
+Key Relationships
+
+Customer ↔ Lead (One-to-Many)
+
+A customer can have multiple leads, reflecting different properties they are interested in. Each lead is associated with one specific customer, helping sales reps track potential buyers effectively.
+
+SalesRep ↔ Showing (One-to-Many)
+
+A sales representative can conduct multiple showings. Each showing is assigned to one sales rep, which helps in organizing and managing property viewings.
+
+Property ↔ Lead (One-to-Many)
+
+A property can generate multiple leads, as different customers may express interest in it. Each lead points to a specific property, facilitating targeted follow-ups by sales representatives.
+
+Customer ↔ Offer (One-to-Many)
+
+A customer can make multiple offers on different properties. Each offer is linked to a specific customer, providing a clear record of negotiations and transactions.
+
+Offer ↔ Contract (One-to-One)
+
+Each offer can lead to one contract if accepted. This relationship formalizes the agreement and captures essential details of the sale.
+
+Customer ↔ Payment (One-to-Many)
+
+A customer can make multiple payments related to different offers or contracts. Each payment is linked to a specific customer, ensuring accurate tracking of financial transactions.
+
+SalesRep ↔ Feedback (One-to-Many)
+
+A sales representative can receive multiple feedback entries from customers. Each feedback record is associated with one sales rep, helping assess performance and customer satisfaction.
+
+SalesRep ↔ SalesRep_has_Property (One-to-Many)
+
+A sales representative can be responsible for multiple properties. Each property assignment is linked to one sales rep, which aids in managing commissions and responsibilities.
+
+Property ↔ SalesRep_has_Property (One-to-Many)
+
+A property can be associated with multiple sales representatives, particularly if it is being handled by a team. Each property assignment is linked to a specific property, which aids in coordinating sales efforts.
+
+
 Scenario Description: 
 We created this data model to serve as a real estate customer relationship management system. It tracks all the interactions that happens betweens customers, sales representatives, and properties. The database that we created helps to manage things such as a customer lead, the showings of properties, any offers, contracts, or payments, as well as commission. It is aimed at real estate agencies, which helps them to streamline sales with customers. 
 
