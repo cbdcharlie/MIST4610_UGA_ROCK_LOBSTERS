@@ -148,3 +148,8 @@ Query7
 
 <img width="848" alt="Screenshot 2024-10-01 at 1 48 49 AM" src="https://github.com/user-attachments/assets/9de7bcbd-038c-4fd3-a5a0-d989f1b92776">
 
+Query8
+
+<img width="746" alt="Screenshot 2024-10-01 at 1 55 26 AM" src="https://github.com/user-attachments/assets/9876e0cf-d71d-4b64-9fb7-afae0f0a7769">
+
+
