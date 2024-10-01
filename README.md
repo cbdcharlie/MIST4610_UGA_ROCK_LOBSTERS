@@ -25,7 +25,7 @@ Data Model
 
  The Feedback entity helps to identity any feedback received by a sales representative. The feedback entity can store the comments and ratings that are associated with each SalesRep. A sales representative can have multiple feedbacks but a feedback is tied to only one sales representative.
 
- The Property entity helps to keep track of the properties that are listed or have been many with is the many to many associated with the Prop_has_SalesRep entity. The property entity can help to keep track of the address, city, state and price of the property while also being tied to a lead. A property is only associated with one lead. A property can have many showings. A sales representative can have many showings.
+ The Property entity helps to keep track of the properties that are listed or have been listed, which shows the many to many relationship associated with the Prop_has_SalesRep entity and Property entity. The property entity can help to keep track of the address, city, state and price of the property while also being tied to a lead. A property is only associated with one lead. A property can have many showings. A sales representative can have many showings.
 
  The Showing entity keeps track of the date of the showing as well as the time. A sales representative can have many showings but a showing is only tied to one sales representative. A property can have many showings but a showing is only tied to one property.
 
