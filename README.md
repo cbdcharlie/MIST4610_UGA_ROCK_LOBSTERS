@@ -32,41 +32,24 @@ Data Model
 
 Key Relationships
 
-Customer ↔ Lead (One-to-Many)
-
-A customer can have multiple leads, reflecting different properties they are interested in. Each lead is associated with one specific customer, helping sales reps track potential buyers effectively.
-
-SalesRep ↔ Showing (One-to-Many)
-
-A sales representative can conduct multiple showings. Each showing is assigned to one sales rep, which helps in organizing and managing property viewings.
-
-Property ↔ Lead (One-to-Many)
-
-A property can generate multiple leads, as different customers may express interest in it. Each lead points to a specific property, facilitating targeted follow-ups by sales representatives.
-
-Customer ↔ Offer (One-to-Many)
-
-A customer can make multiple offers on different properties. Each offer is linked to a specific customer, providing a clear record of negotiations and transactions.
-
-Offer ↔ Contract (One-to-One)
-
-Each offer can lead to one contract if accepted. This relationship formalizes the agreement and captures essential details of the sale.
-
-Customer ↔ Payment (One-to-Many)
-
-A customer can make multiple payments related to different offers or contracts. Each payment is linked to a specific customer, ensuring accurate tracking of financial transactions.
-
-SalesRep ↔ Feedback (One-to-Many)
-
-A sales representative can receive multiple feedback entries from customers. Each feedback record is associated with one sales rep, helping assess performance and customer satisfaction.
-
-SalesRep ↔ SalesRep_has_Property (One-to-Many)
-
-A sales representative can be responsible for multiple properties. Each property assignment is linked to one sales rep, which aids in managing commissions and responsibilities.
-
-Property ↔ SalesRep_has_Property (One-to-Many)
-
-A property can be associated with multiple sales representatives, particularly if it is being handled by a team. Each property assignment is linked to a specific property, which aids in coordinating sales efforts.
+- Customer ↔ Lead (One-to-Many)
+  - A customer can have multiple leads, reflecting different properties they are interested in. Each lead is associated with one specific customer, helping sales reps track potential buyers effectively.
+- SalesRep ↔ Showing (One-to-Many)
+  - A sales representative can conduct multiple showings. Each showing is assigned to one sales rep, which helps in organizing and managing property viewings.
+- Property ↔ Lead (One-to-Many)
+  - A property can generate multiple leads, as different customers may express interest in it. Each lead points to a specific property, facilitating targeted follow-ups by sales representatives.
+- Customer ↔ Offer (One-to-Many)
+  - A customer can make multiple offers on different properties. Each offer is linked to a specific customer, providing a clear record of negotiations and transactions.
+- Offer ↔ Contract (One-to-One)
+  - Each offer can lead to one contract if accepted. This relationship formalizes the agreement and captures essential details of the sale.
+- Customer ↔ Payment (One-to-Many)
+  - A customer can make multiple payments related to different offers or contracts. Each payment is linked to a specific customer, ensuring accurate tracking of financial transactions.
+- SalesRep ↔ Feedback (One-to-Many)
+  - A sales representative can receive multiple feedback entries from customers. Each feedback record is associated with one sales rep, helping assess performance and customer satisfaction.
+- SalesRep ↔ SalesRep_has_Property (One-to-Many)
+  - A sales representative can be responsible for multiple properties. Each property assignment is linked to one sales rep, which aids in managing commissions and responsibilities.
+- Property ↔ SalesRep_has_Property (One-to-Many)
+  - A property can be associated with multiple sales representatives, particularly if it is being handled by a team. Each property assignment is linked to a specific property, which aids in coordinating sales efforts.
 
 
 Scenario Description: 
