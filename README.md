@@ -9,6 +9,26 @@ Data Model
 
  ![image](https://github.com/user-attachments/assets/f0c97308-65ba-498d-9271-5048fece976d)
 
+ Explanation of the Data Model
+
+ Our data model looks to capture what a base model real estate customer relationship management system would look like. The payment entity looks to keep track of the payments made by customers to the agency so that they know the amount they're making.
+
+ Then there is the Customer entity which helps to keep to keep track of what the Customers name, email and phone are. It helps to tie together the payment by the customer, the offer the customer makes, and the contract that is presented along with the offer.
+
+ Next there is the Offer entity, which a customer can have many offers but an offer can only be tied to one customer. The offer helps to keep track of the amount of the offer along with the date that the customer offered up that contract.
+
+ Next there is the Contract entity, which can help to keep track of the contract associated with an offer, hence the one to one relationship. In this specific entity it contains the price tied to the contract, as well as the start and end of that contract.
+
+ The SalesRep entity helps to keep track of the representatives at a specific agency. The entity keeps track of the name of the person, the email of the person, along with phone number and office location. A sales representative can have many properties associated with them as long as many customers that they serve. They can also offer many showings for properties. And lastly they can receive a lot of feedback based on how they did.
+
+ The Lead entity helps to identify any potential leads that a customer has with a property. The lead entity identifies the lead level with a number. Lead has a one to one relationship with Property because a lead can only be associated with one property. A customer can have multiple leads with different properties. 
+
+ The Feedback entity helps to identity any feedback received by a sales representative. The feedback entity can store the comments and ratings that are associated with each SalesRep. A sales representative can have multiple feedbacks but a feedback is tied to only one sales representative.
+
+ The Property entity helps to keep track of the properties that are listed or have been many with is the many to many associated with the Prop_has_SalesRep entity. The property entity can help to keep track of the address, city, state and price of the property while also being tied to a lead. A property is only associated with one lead. A property can have many showings. A sales representative can have many showings.
+
+ The Showing entity keeps track of the date of the showing as well as the time. A sales representative can have many showings but a showing is only tied to one sales representative. A property can have many showings but a showing is only tied to one property.
+
 
 Scenario Description: 
 We created this data model to serve as a real estate customer relationship management system. It tracks all the interactions that happens betweens customers, sales representatives, and properties. The database that we created helps to manage things such as a customer lead, the showings of properties, any offers, contracts, or payments, as well as commission. It is aimed at real estate agencies, which helps them to streamline sales with customers. 
