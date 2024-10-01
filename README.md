@@ -123,3 +123,19 @@ Query1
 <img width="712" alt="Screenshot 2024-10-01 at 1 31 23 AM" src="https://github.com/user-attachments/assets/00506765-fd0d-4cb5-b9cb-c83da035bbc8">
 
 This query uses Property and Prop_has_SalesRep entity, joining the two tables. It then identifies the properties listed in Atlanta along with finding out if they are active. All the prices of these houses are averaged out then shown with the city, Atlanta.
+
+Querries
+1)
+![image](https://github.com/user-attachments/assets/0d940aa7-3ab1-4976-9988-772c261458e3)
+
+2
+![image](https://github.com/user-attachments/assets/8a9bc306-bd35-4785-a34d-55bd0de1c9ae)
+
+3
+![image](https://github.com/user-attachments/assets/371ea63c-ecd8-4b0e-a331-09e227714251)
+
+4
+![image](https://github.com/user-attachments/assets/3df55698-15ab-4a45-9b2b-fe3cf62dcd8b)
+
+6
+![image](https://github.com/user-attachments/assets/80a69c0c-6cb2-49fb-8b53-03b9dcdca3ff)
