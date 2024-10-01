@@ -16,7 +16,9 @@ We created this data model to serve as a real estate customer relationship manag
 Data Dictionary:
 
 Payment
-- <img width="727" alt="Screenshot 2024-10-01 at 12 15 13 AM" src="https://github.com/user-attachments/assets/4d2a1963-a963-4720-be6b-f6ec1095fe0a">
+
+<img width="717" alt="Screenshot 2024-10-01 at 12 40 46 AM" src="https://github.com/user-attachments/assets/ff4ee415-aa3d-44ab-8897-1be4ea3fb8c9">
+
 
 
 Customer
