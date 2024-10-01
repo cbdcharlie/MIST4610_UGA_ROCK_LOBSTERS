@@ -4,3 +4,6 @@ Team name and members: Rock Lobsters
 Charlie Davis
 Will Jenkins
 Brooks Ruehle
+
+Scenario Description
+We created this data model for a real estate company that 
