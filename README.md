@@ -119,10 +119,10 @@ Feedback
 <img width="719" alt="Screenshot 2024-10-01 at 12 43 55 AM" src="https://github.com/user-attachments/assets/d51749bc-2f47-4903-8fb1-c7caa8bffd69">
 
 Query1
-This query uses Property and Prop_has_SalesRep entity, joining the two tables. It then identifies the properties listed in Atlanta along with finding out if they are active. All the prices of these houses are averaged out then shown with the city, Atlanta.
-<img width="712" alt="Screenshot 2024-10-01 at 1 31 23 AM" src="https://github.com/user-attachments/assets/00506765-fd0d-4cb5-b9cb-c83da035bbc8">
 
-Query 1 allows the real estate company to survey the average price of a property on the market in Atlanta. With this information, the company is able to communicate to potential customers what the price range would be for a property in Atlanta.
+<img width="712" alt="Screenshot 2024-10-01 at 1 31 23 AM" src="https://github.com/user-attachments/assets/00506765-fd0d-4cb5-b9cb-c83da035bbc8">
+This query uses Property and Prop_has_SalesRep entity, joining the two tables. It then identifies the properties listed in Atlanta along with finding out if they are active. All the prices of these houses are averaged out then shown with the city, Atlanta.
+
 
 Query2
 
