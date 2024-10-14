@@ -167,4 +167,17 @@ Query8
 
 This query shows all the contracts that each customer has and the amount of each contract.
 
+Query9
+
+<img width="575" alt="Screenshot 2024-10-14 at 1 37 07 PM" src="https://github.com/user-attachments/assets/55188a51-a7e5-4f15-9f84-e9251d7e46f4">
+
+This query displays all the active homes that are priced over $100,000.
+
+Query10
+
+<img width="1062" alt="Screenshot 2024-10-14 at 1 37 57 PM" src="https://github.com/user-attachments/assets/8aeeb830-518a-426f-b747-b60ef34e78bf">
+
+This query shows all the active offers on current listings that have a price of upwards of $200,000.
+
+
 
