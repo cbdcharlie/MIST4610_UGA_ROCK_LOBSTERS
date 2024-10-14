@@ -118,6 +118,10 @@ Feedback
 
 <img width="719" alt="Screenshot 2024-10-01 at 12 43 55 AM" src="https://github.com/user-attachments/assets/d51749bc-2f47-4903-8fb1-c7caa8bffd69">
 
+
+<img width="976" alt="Screenshot 2024-10-14 at 1 39 20 PM" src="https://github.com/user-attachments/assets/01d2c232-79dc-42db-9080-3f1af46435eb">
+
+
 Query1
 
 <img width="712" alt="Screenshot 2024-10-01 at 1 31 23 AM" src="https://github.com/user-attachments/assets/00506765-fd0d-4cb5-b9cb-c83da035bbc8">
