@@ -121,6 +121,7 @@ Feedback
 Query1
 
 <img width="712" alt="Screenshot 2024-10-01 at 1 31 23 AM" src="https://github.com/user-attachments/assets/00506765-fd0d-4cb5-b9cb-c83da035bbc8">
+
 This query uses Property and Prop_has_SalesRep entity, joining the two tables. It then identifies the properties listed in Atlanta along with finding out if they are active. All the prices of these houses are averaged out then shown with the city, Atlanta.
 
 
@@ -128,28 +129,42 @@ Query2
 
 ![image](https://github.com/user-attachments/assets/0d940aa7-3ab1-4976-9988-772c261458e3)
 
+This query shows all the homes that are currently listed in the state of California, indicated by "CA."
+
 Query3
 
 ![image](https://github.com/user-attachments/assets/8a9bc306-bd35-4785-a34d-55bd0de1c9ae)
+
+This query shows the total number in dollar amounts that each customer has paid in the Payment entity.
 
 Query4
 
 ![image](https://github.com/user-attachments/assets/371ea63c-ecd8-4b0e-a331-09e227714251)
 
+This query shows all customers that have a lead level that is high.
+
 Query5
 
 ![image](https://github.com/user-attachments/assets/3df55698-15ab-4a45-9b2b-fe3cf62dcd8b)
+
+This query shows all the ratings with their comments that have a rating of greater than 4.
 
 Query6
 
 ![image](https://github.com/user-attachments/assets/80a69c0c-6cb2-49fb-8b53-03b9dcdca3ff)
 
+This query selects all the customers that don't currently have an offer in.
+
 Query7
 
 <img width="848" alt="Screenshot 2024-10-01 at 1 48 49 AM" src="https://github.com/user-attachments/assets/9de7bcbd-038c-4fd3-a5a0-d989f1b92776">
 
+This query shows the city with its average price of the house along with the number of showings in that city.
+
 Query8
 
 <img width="746" alt="Screenshot 2024-10-01 at 1 55 26 AM" src="https://github.com/user-attachments/assets/9876e0cf-d71d-4b64-9fb7-afae0f0a7769">
+
+This query shows all the contracts that each customer has and the amount of each contract.
 
 
